@@ -15,3 +15,5 @@
 let fun = undefined;
 console.log(fun);
 
+let ages = [2, 3, 4]
+console.log(ages[11]);
